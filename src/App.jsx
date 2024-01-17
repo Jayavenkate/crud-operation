@@ -1,11 +1,12 @@
 
 import './App.css'
-import Add from './add'
+import AddForm from './add'
+
 
 function App() {
   return (
     <>
-      <Add />
+      <AddForm />
     </>
   )
 }
